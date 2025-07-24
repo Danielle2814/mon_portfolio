@@ -1,0 +1,28 @@
+body{
+    background: #0ff
+}
+
+#a{
+    color: #f09
+}
+
+#b{
+    color: #000;
+}
+
+table, th, tr, td{
+    border-collapse: collapse;
+    text-align: center;
+    border-style: solid;
+    border-color: #0ff;
+    border: 1px;
+
+}
+
+p, h3, li, ul{
+    margin: 10px;
+}
+
+u{
+    color: #f0f;
+}
