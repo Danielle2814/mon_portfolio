@@ -7,17 +7,18 @@
 
 html{
     font-size: 10px;
+    font-family: Arial;
 }
 
 body{
     width: 100vw;
     height: 100vh;
     overflow-x: hidden;
-    background: #0ff
+    background: #4caf50
 }
 
 #a{
-    color: #f09
+    color: #ffff00
 }
 
 #b{
@@ -38,5 +39,5 @@ p, h3, li, ul{
 }
 
 u{
-    color: #f0f;
+    color: #a00;
 }
