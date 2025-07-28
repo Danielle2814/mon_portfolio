@@ -14,7 +14,8 @@ body{
     width: 100vw;
     height: 100vh;
     overflow-x: hidden;
-    background: #4caf50
+    background-image: url(images/cyberpunk-cityscape-digital-metropolis_332713-13442.jpg);
+    
 }
 
 #a{
